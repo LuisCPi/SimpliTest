@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+mysite-react/node_modules
+mysite-react/package-lock.json
+
 # Distribution / packaging
 .Python
 build/
